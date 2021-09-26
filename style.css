@@ -1,0 +1,20 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to right top, #ff9199, #ffa772, #e3c75e, #a7e679, #00ffc2);
+    text-align: center;
+    padding: 10px;
+    }
+
+    canvas{
+        border: black;
+        border-style: double;
+        box-shadow: 5px 5px 18px fuchsia;
+
+    }
